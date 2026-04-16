@@ -64,7 +64,7 @@ static void test_ioctl(const char *drive_letter)
     CloseHandle(h);
 }
 
-/* wmi path, what mta actually queries */
+/* wmi path*/
 #include <objbase.h>
 #include <wbemcli.h>
 
