@@ -1,4 +1,4 @@
-/* mta_serial_test.c
+/* serial_test.c
  * replicates how mta gets disk serial on wine
  *
  * mingw:  x86_64-w64-mingw32-gcc -o mta_serial_test.exe mta_serial_test.c -lole32 -loleaut32 -lwbemuuid
