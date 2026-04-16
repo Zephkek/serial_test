@@ -3,7 +3,7 @@
  *
  * mingw:  x86_64-w64-mingw32-gcc -o mta_serial_test.exe mta_serial_test.c -lole32 -loleaut32 -lwbemuuid
  * msvc:   cl mta_serial_test.c ole32.lib oleaut32.lib wbemuuid.lib
- * run:    wine mta_serial_test.exe
+ * run:    wine serial_test.exe
  */
 
 #include <windows.h>
